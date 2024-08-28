@@ -1,23 +1,57 @@
 .card {
     width: 550px;
+    margin-bottom: 24px;
 }
 
+.fa-location-dot {
+    color: #1C2541;
+}
+
+.location {
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #2B283A;
+    padding-right: 16px;
+    padding-left: 8px;
+}
+
+.map-link {
+    color: #918E9B;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
+
+
 .card-image {
-    max-width: 200px;
-    max-height: 400px;
+    width: 200px;
+    height: 300px;
     border-radius: 8px;
     float: left;
+    display: block;
 }
 
 .card-header {
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 0 0 16px;
 }
 
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding: 12px 0 0 16px;
+}
 
-/* .card-date {
-    float: right;
+.card-date {
+    font-weight: 700;
+    font-size: 0.75rem;
 }
 
 .card-para {
-    float: right;
-} */
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+}

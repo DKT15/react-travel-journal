@@ -7,7 +7,7 @@ export default [
     startDate: "4 Jul, 2024",
     endDate: "14 Jul, 2024",
     description:
-      "Punta Cana, the easternmost tip of the Dominican Republic, abuts the Caribbean Sea and the Atlantic Ocean. It's a region known for its 32km stretch of beaches and clear waters. The Bávaro area and Punta Cana combine to form what's known as the Coconut Coast.",
+      "Punta Cana, the easternmost tip of the Dominican Republic, abuts the Caribbean Sea and the Atlantic Ocean. It's a region known for its 32km stretch of beaches and clear waters.",
     imageUrl: "../assets/punta-cana.jpg",
   },
   {
