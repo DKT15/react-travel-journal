@@ -8,7 +8,7 @@ export default [
     endDate: "14 Jul, 2024",
     description:
       "Punta Cana, the easternmost tip of the Dominican Republic, abuts the Caribbean Sea and the Atlantic Ocean. It's a region known for its 32km stretch of beaches and clear waters. The Bávaro area and Punta Cana combine to form what's known as the Coconut Coast.",
-    imageUrl: "./assets/punta-cana.jpg",
+    imageUrl: "../assets/punta-cana.jpg",
   },
   {
     title: "Cologne Cathedral",
@@ -19,7 +19,7 @@ export default [
     endDate: "1 Apr, 2024",
     description:
       "Cologne Cathedral is a cathedral in Cologne, North Rhine-Westphalia belonging to the Catholic Church. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne.",
-    imageUrl: "./assets/cologne-cathedral.jpg",
+    imageUrl: "../assets/cologne-cathedral.jpg",
   },
   {
     title: "Buddha Tooth Relic Temple",
@@ -30,6 +30,6 @@ export default [
     endDate: "7 Apr, 2023",
     description:
       "The Buddha Tooth Relic Temple and Museum is a Buddhist temple and museum complex located in the Chinatown district of Singapore. The temple's monastics and devotees officially practice Chinese Buddhism.",
-    imageUrl: "./assets/buddha-temple.jpg",
+    imageUrl: "../assets/buddha-temple.jpg",
   },
 ];

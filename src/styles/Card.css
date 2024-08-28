@@ -1,0 +1,23 @@
+.card {
+    width: 550px;
+}
+
+.card-image {
+    max-width: 200px;
+    max-height: 400px;
+    border-radius: 8px;
+    float: left;
+}
+
+.card-header {
+    display: flex;
+}
+
+
+/* .card-date {
+    float: right;
+}
+
+.card-para {
+    float: right;
+} */
