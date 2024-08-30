@@ -42,7 +42,7 @@ To get started with the website, follow these steps:
 
 ## Screenshots
 
-![Travel Journal screenshot.](assets/travel-journal.png)
+![Travel Journal screenshot.](./public/assets/travel-journal.png)
 
 ## Deployment
 
