@@ -11,7 +11,7 @@ function Card(props) {
       <div className="card-header">
         <FontAwesomeIcon icon={faLocationDot} />
         <p className="location">{props.location}</p>
-        <a className="map-link" href={props.googleMapsUrl}>
+        <a className="map-link" target="blank" href={props.googleMapsUrl}>
           View on Google Maps
         </a>
       </div>

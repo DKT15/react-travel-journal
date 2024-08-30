@@ -25,7 +25,7 @@ export default [
     title: "Buddha Tooth Relic Temple",
     location: "Singapore",
     googleMapsUrl:
-      "hhttps://www.google.com/maps/place/Buddha+Tooth+Relic+Temple/@1.281496,103.8416623,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1972ce26bcd1:0x19202d08368ce010!8m2!3d1.2815155!4d103.8442397!16s%2Fm%2F0c3tv_j?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
+      "https://www.google.com/maps/place/Buddha+Tooth+Relic+Temple/@1.281496,103.8416623,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1972ce26bcd1:0x19202d08368ce010!8m2!3d1.2815155!4d103.8442397!16s%2Fm%2F0c3tv_j?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
     startDate: "29 Mar, 2023",
     endDate: "7 Apr, 2023",
     description:
